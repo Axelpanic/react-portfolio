@@ -2,7 +2,5 @@
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-image: image-set("../images/background.jpg");
     background-attachment: fixed;
-    background-origin:initial;
-    background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: cover;
 };
