@@ -1,12 +1,14 @@
 import React from "react";
 import PortfolioContainer from "./components/PortfolioContainer";
-import Header from './components/Header';
-import Footer from './components/Footer';
+import Header from './components/header';
+import Footer from './components/footer';
+import Style from './assets/style/style.css';
+
 
 //App building
 function App() {
     return (
-         <div> 
+         <div className="all"> 
             <Header />
             <PortfolioContainer />
             <Footer />

@@ -1,12 +1,12 @@
-import React from ('react');
-import NavTabs from ('/NavTabs');
+import React from 'react';
+import Style from "../assets/style/header.css"
 
-function Header({currectPage, handlePageChange}){
+function Header() {
     return(
-        <Header>
-            <h1>Alex Hickey</h1>s
-        </Header>
+        <div className='Header'>
+            <h1>Alex Hickey</h1><h4>coding Engineer</h4>
+        </div>
     )
 };
 
-export default Header;
+export default Header

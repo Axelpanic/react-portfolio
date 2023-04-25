@@ -1,8 +1,9 @@
 import React from 'react';
+import Style from '../assets/style/navtab.css';
 
 function NavTabs({ currentPage, handlePageChange }) {
   return (
-    <ul className="nav nav-tabs">
+    <ul className="nav nav-pills justify-content-center">
       <li className="nav-item">
         <a
           href="#home"
@@ -24,12 +25,32 @@ function NavTabs({ currentPage, handlePageChange }) {
       </li>
       <li className="nav-item">
         <a
-          href="#blog"
-          onClick={() => handlePageChange('Blog')}
+          href="#Resume"
+          onClick={() => handlePageChange('Resume')}
 
-          className={currentPage === 'Blog' ? 'nav-link active' : 'nav-link'}
+          className={currentPage === 'Resume' ? 'nav-link active' : 'nav-link'}
         >
-          Blog
+          Resume
+        </a>
+      </li>
+      <li className="nav-item">
+        <a
+          href="#Deployed"
+
+          onClick={() => handlePageChange('Deployed')}
+          className={currentPage === 'Deployed' ? 'nav-link active' : 'nav-link'}
+        >
+          Deployed
+        </a>
+      </li>
+      <li className="nav-item">
+        <a
+          href="#Skills"
+
+          onClick={() => handlePageChange('Skills')}
+          className={currentPage === 'Skills' ? 'nav-link active' : 'nav-link'}
+        >
+          Skills
         </a>
       </li>
       <li className="nav-item">

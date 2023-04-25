@@ -1,0 +1,12 @@
+.cards {
+    margin:10px 10px 20px;
+    background-color: lightgrey;
+}
+
+.jobinfo {
+    font-style: italic;
+}
+
+.jobtime {
+    font-weight: bold;
+}

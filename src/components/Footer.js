@@ -1,10 +1,11 @@
-import React from ('react');
+import React from 'react';
+import Style from "../assets/style/footer.css";
 
-function Footer ({currentPage, handlePageChange}) {
+function Footer() {
     return (
-        <Footer>
-            <p> Alex Hickey, written using MERN practicies, April 2023s</p>
-        </Footer>
+        <div className='Footer'>
+            <p> Alex Hickey, written using MERN, April 2023</p>
+        </div>
     )
 };
 
