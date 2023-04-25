@@ -17,7 +17,7 @@ npm run start or npm run build
 
 ## Screenshot
 
-![image](screenshot.png)
+![image](Screenshot.png)
 
 ## Credits
 
