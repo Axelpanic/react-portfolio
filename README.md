@@ -4,6 +4,8 @@ New portfolio using react with deployments
 ## Description
 This is my portfolio. It will be updated often when I finish working on a new project. This react portfolio was built froms scratch using minimal code to start the project. All content within is my personal info!
 
+Link!
+https://axelpanic.github.io/react-portfolio/
 
 - [Installation](#installation)
 - [Usage](#usage)
