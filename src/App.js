@@ -1,7 +1,7 @@
 import React from "react";
 import PortfolioContainer from "./components/PortfolioContainer";
 import Header from './components/header';
-import Footer from './components/Footer';
+import Footer from './components/footer';
 import Style from './assets/style/style.css';
 
 
