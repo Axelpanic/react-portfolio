@@ -26,6 +26,9 @@ export default function Resume() {
         <p> Security Supervisor of J-1 Housing</p>
         <p> My job was to monitor, control access, and assist the on-site employees in their on-site housing. These employees were typically hired on a J-1 visa, otherwise known as temporary summer help!</p>
       </div>
+      <div className='link'>
+        <a href="https://drive.google.com/file/d/1ubs9nRKbaSfQMtKnBFcl48rBF4Zpj9BC/view?usp=share_link" target='_blank' rel='noreferrer' >Click here to download!</a>
+      </div>
     </div>
   );
 }
