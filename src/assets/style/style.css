@@ -1,6 +1,5 @@
 .all {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-image: image-set("../images/background.jpg");
-    background-attachment: fixed;
-    background-size: cover;
+    background-color: #cce6ff;
+    
 };

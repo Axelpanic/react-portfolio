@@ -3,6 +3,8 @@ import JATE from '../../assets/images/JATE_app.PNG';
 import Scheduler from '../../assets/images/scheduler.png';
 import Weather from '../../assets/images/weather.png';
 import Style from '../../assets/style/deployed.css';
+import oldPortfolio from '../../assets/images/oldportfolio.png';
+import Movie from '../../assets/images/moviefinderproject.png';
 
 export default function Deployed() {
   return (
@@ -31,6 +33,22 @@ export default function Deployed() {
             <img className="mw-25" src={Weather} alt='Weather Dashboard project' />
             <div class="overlay">
               <div class="text">Weather Dashboard: uses foreign API!</div>
+            </div>
+          </a>
+        </div>
+        <div className='container'>
+          <a className="img-fluid" href='https://axelpanic.github.io/Portfolio/' target='_blank' rel='noreferrer'>
+            <img className="mw-25" src={oldPortfolio} alt='my old portfolio  ' />
+            <div class="overlay">
+              <div class="text">My original portfolio from November!</div>
+            </div>
+          </a>
+        </div>
+        <div className='container'>
+          <a className="img-fluid" href='https://axelpanic.github.io/Project-Movie-finder/' target='_blank' rel='noreferrer'>
+            <img className="mw-25" src={Movie} alt='Movie Finder Project' />
+            <div class="overlay">
+              <div class="text">This was my first Agile group development project!</div>
             </div>
           </a>
         </div>
