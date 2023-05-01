@@ -1,9 +1,17 @@
 import React from 'react';
-import Style from "../assets/style/footer.css";
+
+const style= {
+    Footer: {
+    textAlign: 'center',
+    margin:'auto',
+    width:'50%',
+    background: '#87CEFA',
+    borderRadius:15,}
+}
 
 function Footer() {
     return (
-        <div className='Footer'>
+        <div style={style.Footer}>
             <p> Alex Hickey, April 2023</p>
         </div>
     )
