@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.49686fcf.css",
+    "main.css": "/react-portfolio/static/css/main.22cd4d7e.css",
     "main.js": "/react-portfolio/static/js/main.a4157bbf.js",
     "static/media/moviefinderproject.png": "/react-portfolio/static/media/moviefinderproject.9308394471c9d6713206.png",
     "static/media/oldportfolio.png": "/react-portfolio/static/media/oldportfolio.b0028e2ebd9e67beb705.png",
@@ -10,11 +10,11 @@
     "static/media/github-1.svg": "/react-portfolio/static/media/github-1.04be58c17b3d5e9744424d414240dd85.svg",
     "index.html": "/react-portfolio/index.html",
     "static/media/linkedin-1.svg": "/react-portfolio/static/media/linkedin-1.27a3f479ca1bbb0ceef19e395081fb94.svg",
-    "main.49686fcf.css.map": "/react-portfolio/static/css/main.49686fcf.css.map",
+    "main.22cd4d7e.css.map": "/react-portfolio/static/css/main.22cd4d7e.css.map",
     "main.a4157bbf.js.map": "/react-portfolio/static/js/main.a4157bbf.js.map"
   },
   "entrypoints": [
-    "static/css/main.49686fcf.css",
+    "static/css/main.22cd4d7e.css",
     "static/js/main.a4157bbf.js"
   ]
 }
