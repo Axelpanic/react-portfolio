@@ -1,8 +1,8 @@
 import React, { useRef } from "react";
 import emailjs from '@emailjs/browser';
 import Style from "../../assets/style/contact.css";
-import Github from "../../assets/images/Icons/github-1.svg";
-import Linkedin from "../../assets/images/Icons/linkedin-1.svg";
+import Github from "../../assets/images/github-1.svg";
+import Linkedin from "../../assets/images/linkedin-1.svg";
 
 export default function Contact() {
   const form = useRef();

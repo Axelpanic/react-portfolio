@@ -1,13 +1,13 @@
 import React from 'react';
 import Style from '../../assets/style/skills.css';
-import HTML from '../../assets/images/Icons/html-5-96.png';
-import CSS from '../../assets/images/Icons/css3-96.png';
-import JS from '../../assets/images/Icons/javascript-96.png';
-import Bootstrap from '../../assets/images/Icons/bootstrap-96.png';
-import mySQL from '../../assets/images/Icons/mysql.png';
-import mongodb from '../../assets/images/Icons/MongoDB_Logomark_SpringGreen.png';
-import imgR from "../../assets/images/Icons/logo192.png";
-import gQL from '../../assets/images/Icons/GraphQL Logo (Rhodamine).png';
+import HTML from '../../assets/images/html-5-96.png';
+import CSS from '../../assets/images/css3-96.png';
+import JS from '../../assets/images/javascript-96.png';
+import Bootstrap from '../../assets/images/bootstrap-96.png';
+import mySQL from '../../assets/images/mysql.png';
+import mongodb from '../../assets/images/MongoDB_Logomark_SpringGreen.png';
+import imgR from "../../assets/images/logo192.png";
+import gQL from '../../assets/images/GraphQL Logo (Rhodamine).png';
 
 export default function Skills() {
   return (
